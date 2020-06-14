@@ -32,20 +32,21 @@ It is essential that when someone has a heart attack, there are people who will 
 # Getting Started:
 
 1. Download the python program from Github.
-2. Open telegram, and search ‘@BotFather’
-3. Send @BotFather ‘/start’
-4. Send another “/newbot” message, then follow the instructions to setup a name and a username
-5. Your bot is now ready, be sure to save a backup of your API token, and correct, this API token is your bot_token
-6. On Telegram, search your bot (by the username you just created), press the “Start” button or send a “/start” message
+2. Open telegram, and search ‘@BotFather’.
+3. Send @BotFather ‘/start’.
+4. Send another “/newbot” message, then follow the instructions to setup a name and a username.
+5. Your bot is now ready, be sure to save a backup of your API token, and correct, this API token is your bot_token.
+6. On Telegram, search your bot (by the username you just created), press the “Start” button or send a “/start” message.
 Open a new tab with your browser, enter https://api.telegram.org/bot<yourtoken>/getUpdates , replace <yourtoken> with your API token, press enter and you should see something like this: 
   
 {"ok":true,"result":[{"update_id":77xxxxxxx,"message":{"message_id":550,"from":{"id":34xxxxxxx,"is_bot":false,"first_name":"ManHay","last_name":"Hong","username":"manhay212","language_code":"en-HK"}
 
-Look for “id”, for instance, 34xxxxxxx above is my chat id. Look for yours and put it as your bot_chatID in the code above
+Look for “id”, for instance, 34xxxxxxx above is my chat id. Look for yours and put it as your bot_chatID in the code above.
+
 7. Repeat the steps above if you want to use two chatbots, except now replace the bot_token1 and bot_chatID1 fields respectively.
-8. Run the attached python code
-9. When program prompts for input, supply it with a dataset provided below. Here, Y means it is a normal ECG, and N means it is an ECG with Atrial Fibrillation  
-10. If a dataset with atrial fibrillation is used, a text message should be sent to the Bot
+8. Run the attached python code.
+9. When program prompts for input, supply it with a dataset provided below. Here, Y means it is a normal ECG, and N means it is an ECG with Atrial Fibrillation.
+10. If a dataset with atrial fibrillation is used, a text message should be sent to the Bot.
 
 
 # Live Demo (not compulsory):
