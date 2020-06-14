@@ -3,7 +3,8 @@
 - [1. SCDFXIBM HeartFault by Team Segfault](#1-scdfxibm-heartfault-by-team-segfault)
 - [2. Group Members](#2-group-members)
 - [3. Summary](#3-summary)
-  - [3.1. The idea](#31-the-idea)
+  - [3.1. What’s the problem?](#31-whats-the-problem)
+  - [3.2. The idea](#32-the-idea)
 - [4. How can technology help?](#4-how-can-technology-help)
 - [5. Architecture](#5-architecture)
 - [6. About the Project](#6-about-the-project)
@@ -22,9 +23,9 @@
 - Allysa Tan Li Ying (NJC, JC1)
 
 # 3. Summary
-What’s the problem?
+## 3.1. What’s the problem?
 There has been a high rate of deaths due to cardiovascular diseases such as heart attacks. In fact, statistics show that in Singapore every day, around 17 people die from such diseases. This is a sizable amount of people. There are many people who may be at a higher risk of these diseases, such as those with pre existing heart conditions or who have high cholesterol. It may be difficult for them to be constantly monitored for signs of heart disease.
-## 3.1. The idea
+## 3.2. The idea
 It is essential that when someone has a heart attack, there are people who will know and that will respond. Hence, our idea facilitates the mobilization of CFRs to the scene of someone who has had a heart attack.
 
 # 4. How can technology help?
