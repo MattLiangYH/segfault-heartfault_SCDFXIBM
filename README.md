@@ -56,7 +56,7 @@ We used AutoAI experiment from IBM to train our AI so that it can recognise abno
 
 7. Repeat the steps above if you want to use two chatbots, except now replace the bot_token1 and bot_chatID1 fields respectively.
 8. Run the attached python code.
-9. When program prompts for input, copy and paste data found in the [Sample Input Data](/Sample Input Data) folder into the interface. 
+9. When program prompts for input, copy and paste data found in the Sample Input Data folder into the interface. 
 10. If a dataset with atrial fibrillation is used, a text message should be sent to the Bot.
 
 # 8. Videos
