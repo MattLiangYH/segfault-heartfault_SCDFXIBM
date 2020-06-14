@@ -1,6 +1,6 @@
-# SCDFXIBM HeartFault by Team Segfault
+# 1. SCDFXIBM HeartFault by Team Segfault
 
-- [SCDFXIBM HeartFault by Team Segfault](#scdfxibm-heartfault-by-team-segfault)
+- [1. SCDFXIBM HeartFault by Team Segfault](#1-scdfxibm-heartfault-by-team-segfault)
 - [2. Group Members:](#2-group-members)
 - [3. Summary:](#3-summary)
   - [3.1. The idea](#31-the-idea)
@@ -8,7 +8,6 @@
 - [5. Architecture:](#5-architecture)
 - [6. About the Project:](#6-about-the-project)
   - [6.1. What we used to build the solution:](#61-what-we-used-to-build-the-solution)
-  - [6.2. Roadmap/Proposed timeline (not compulsory):](#62-roadmapproposed-timeline-not-compulsory)
 - [7. Getting Started:](#7-getting-started)
 - [8. Videos](#8-videos)
   - [8.1. Pitch Video:](#81-pitch-video)
@@ -33,6 +32,7 @@ It is essential that when someone has a heart attack, there are people who will 
 There are ways to detect abnormal heart rates that could potentially arise from heart attacks. This will allow CFRs to be notified should a person experience such conditions which may indicate that the person is at risk of getting a heart attack or that a silent heart attack could have already taken place.
 
 # 5. Architecture:
+![Architecture](/assets/architecture.png "Architecture")
 
 # 6. About the Project:
 (link) (i put it below for now)
