@@ -72,7 +72,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # 9. What we used to build our solution
 
-We used Auto AI Experiment from Watson Studio from IBM to train the machine learning service so that it can recognise abnormal heart beats by using data sets from online. Telegram Chatbot is used to notify CFRs around the area if a person is in need of emergency medical aid.
+We used Auto AI Experiment from Watson Studio from IBM to train the Watson machine learning service so that it can recognise abnormal heart beats by using data sets from online. Telegram Chatbot is used to notify CFRs around the area if a person is in need of emergency medical aid.
 
 # 10. Contributing
 
