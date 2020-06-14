@@ -34,7 +34,7 @@ There are ways to detect abnormal heart rates that could potentially arise from 
 # 5. Architecture:
 ![Architecture](/assets/architecture.png "Architecture")
 
-# 6. About the Project:
+# 6. Long Description:
 [Link](/DESCRIPTION.md) 
 ## 6.1. What we used to build the solution:
 
