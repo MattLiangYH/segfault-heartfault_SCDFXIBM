@@ -8,7 +8,6 @@
 - [5. Architecture:](#5-architecture)
 - [6. About the Project:](#6-about-the-project)
   - [6.1. What we used to build the solution:](#61-what-we-used-to-build-the-solution)
-  - [6.2. Roadmap/Proposed timeline (not compulsory):](#62-roadmapproposed-timeline-not-compulsory)
 - [7. Getting Started:](#7-getting-started)
 - [8. Videos](#8-videos)
   - [8.1. Pitch Video:](#81-pitch-video)
@@ -38,8 +37,7 @@ There are ways to detect abnormal heart rates that could potentially arise from 
 (link) (i put it below for now)
 ## 6.1. What we used to build the solution:
 
-We used AutoAI from IBM to train our AI so that it can recognise abnormal heart beats by using data sets from online. Watson Chatbot is used to notify CFRs around the area if a person is in need of emergency medical aid.
-
+We used AutoAI from IBM to train our AI so that it can recognise abnormal heart beats by using data sets from online. Telegram Chatbot is used to notify CFRs around the area if a person is in need of emergency medical aid.
 
 # 7. Getting Started:
 
