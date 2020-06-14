@@ -17,10 +17,10 @@
 - [10. License](#10-license)
 
 # 2. Group Members:
-Liang Ying Hao Matthew (NJC, JC1)
-Kia Jia Han (NJC, JC1)
-Cao Jialin, Marianna  (NJC, JC1)
-[Sim Shang En (NJC, JC1)](https://github.com/12458)
+Liang Ying Hao Matthew (NJC, JC1)\
+Kia Jia Han (NJC, JC1)\
+Cao Jialin, Marianna  (NJC, JC1)\
+[Sim Shang En (NJC, JC1)](https://github.com/12458)\
 Allysa Tan Li Ying (NJC, JC1)
 
 # 3. Summary:
