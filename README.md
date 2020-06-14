@@ -6,7 +6,7 @@
   - [3.1. The idea](#31-the-idea)
 - [4. How can technology help?](#4-how-can-technology-help)
 - [5. Architecture:](#5-architecture)
-- [6. Long Description:](#6-long-description)
+- [6. About the Project:](#6-about-the-project)
   - [6.1. Introduction to the Problem:](#61-introduction-to-the-problem)
   - [6.2. Introduction to the project:](#62-introduction-to-the-project)
   - [6.3. What we used to build the solution:](#63-what-we-used-to-build-the-solution)
@@ -36,7 +36,7 @@ There are ways to detect abnormal heart rates that could potentially arise from 
 # 5. Architecture:
 ![Architecture](/assets/architecture.png "Architecture")
 
-# 6. Long Description:
+# 6. About the Project:
 
 ## 6.1. Introduction to the Problem:
 
