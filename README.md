@@ -14,7 +14,7 @@
 - [8. Videos](#8-videos)
   - [8.1. Pitch Video](#81-pitch-video)
   - [8.2. Live Demo](#82-live-demo)
-- [9. What we used to build our solution](#9-what we used to build our solution)
+- [9. What we used to build our solution](#9-what-we-use-to-build-our-solution)
 - [10. Contributing](#10-contributing)
 - [11. License](#11-license)
 
