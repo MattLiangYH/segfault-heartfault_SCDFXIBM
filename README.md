@@ -17,7 +17,7 @@
 - [10. License](#10-license)
 
 # 2. Group Members:
-Liang Ying Hao Matthew (NJC, JC1)
+[Liang Ying Hao Matthew (NJC, JC1)](https://github.com/MattLiangYH/)
 Kia Jia Han (NJC, JC1)
 Cao Jialin, Marianna  (NJC, JC1)
 [Sim Shang En (NJC, JC1)](https://github.com/12458)
@@ -40,7 +40,6 @@ There are ways to detect abnormal heart rates that could potentially arise from 
 
 We used AutoAI from IBM to train our AI so that it can recognise abnormal heart beats by using data sets from online. Watson Chatbot is used to notify CFRs around the area if a person is in need of emergency medical aid.
 
-## 6.2. Roadmap/Proposed timeline (not compulsory):
 
 # 7. Getting Started:
 
