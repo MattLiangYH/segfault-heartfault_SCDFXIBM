@@ -37,7 +37,7 @@ There are ways to detect abnormal heart rates that could potentially arise from 
 ![Architecture](/assets/architecture.png "Architecture")
 
 # 6. Long Description:
-[Link](/Description.md)
+[Link](/DESCRIPTION.md)
 # 7. Getting Started:
 
 1. Download the python program from Github.
