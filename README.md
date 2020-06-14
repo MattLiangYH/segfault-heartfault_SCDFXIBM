@@ -6,7 +6,7 @@
   - [3.1. The idea](#31-the-idea)
 - [4. How can technology help?](#4-how-can-technology-help)
 - [5. Architecture](#5-architecture)
-- [6. Long Description:](#6-long-description)
+- [6. About the Project:](#6-about-the-project)
 - [7. Getting Started:](#7-getting-started)
 - [8. Videos](#8-videos)
   - [8.1. Pitch Video](#81-pitch-video)
@@ -33,8 +33,9 @@ There are ways to detect abnormal heart rates that could potentially arise from 
 # 5. Architecture
 ![Architecture](/assets/architecture.png "Architecture")
 
-# 6. Long Description:
-[Link](/DESCRIPTION.md)
+# 6. About the Project:
+[DESCRIPTION.md](/DESCRIPTION.md)
+
 # 7. Getting Started:
 
 1. Download the python program from Github.
