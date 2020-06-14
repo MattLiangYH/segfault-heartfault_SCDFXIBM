@@ -14,8 +14,10 @@
 - [8. Videos](#8-videos)
   - [8.1. Pitch Video](#81-pitch-video)
   - [8.2. Live Demo](#82-live-demo)
-- [9. Contributing](#9-contributing)
-- [10. License](#10-license)
+- [9. What we used to build our solution](#9-What we used to build our solution)
+- [10. Contributing](#10-contributing)
+- [11. License](#11-license)
+
 
 # 2. Group Members
 - [Liang Ying Hao Matthew (NJC, JC1)](https://github.com/MattLiangYH/)
@@ -39,10 +41,7 @@ There are ways to detect abnormal heart rates that could potentially arise from 
 # 6. About the Project
 [DESCRIPTION.md](/DESCRIPTION.md)
 
-# 7. What we used to build it
-We used Auto AI from IBM to train our AI so that it can recognise abnormal heart beats by using data sets from online. Watson Chatbot is used to notify CFRs around the area if a person is in need of emergency medical aid.
-
-# 8. Getting Started:
+# 7. Getting Started:
 
 1. Download the python program from Github.
 2. Open telegram, and search ‘`@BotFather`’.
@@ -61,16 +60,17 @@ We used Auto AI from IBM to train our AI so that it can recognise abnormal heart
 9. When program prompts for input, copy and paste data found in the Sample Input Data folder into the interface. 
 10. If a dataset with atrial fibrillation is used, a text message should be sent to the Bot.
 
-# 9. Videos
-## 9.1. Pitch Video
+# 8. Videos
+## 8.1. Pitch Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-## 9.2. Live Demo
+## 8.2. Live Demo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+# 9. What we used to build our solution
 # 10. Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
