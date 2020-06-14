@@ -14,7 +14,7 @@
 - [8. Videos](#8-videos)
   - [8.1. Pitch Video](#81-pitch-video)
   - [8.2. Live Demo](#82-live-demo)
-- [9. What we used to build our solution](#9-what-we-use-to-build-our-solution)
+- [9. What we used to build our solution](#9-What-we-used-to-build-our-solution)
 - [10. Contributing](#10-contributing)
 - [11. License](#11-license)
 
@@ -71,6 +71,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # 9. What we used to build our solution
+
+We used Auto AI Experiment from Watson Studio from IBM to train the machine learning service so that it can recognise abnormal heart beats by using data sets from online. Telegram Chatbot is used to notify CFRs around the area if a person is in need of emergency medical aid.
+
 # 10. Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
