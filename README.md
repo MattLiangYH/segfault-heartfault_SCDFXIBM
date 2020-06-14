@@ -1,6 +1,8 @@
 # 1. SCDFXIBM HeartFault by Team Segfault
 
+## 1.1. Table of Contents
 - [1. SCDFXIBM HeartFault by Team Segfault](#1-scdfxibm-heartfault-by-team-segfault)
+  - [1.1. Table of Contents](#11-table-of-contents)
 - [2. Group Members](#2-group-members)
 - [3. Summary](#3-summary)
   - [3.1. What’s the problem?](#31-whats-the-problem)
