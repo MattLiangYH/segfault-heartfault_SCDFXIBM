@@ -17,10 +17,10 @@
 - [10. License](#10-license)
 
 # 2. Group Members:
-Liang Ying Hao Matthew (NJC, JC1)\
-Kia Jia Han (NJC, JC1)\
-Cao Jialin, Marianna  (NJC, JC1)\
-[Sim Shang En (NJC, JC1)](https://github.com/12458)\
+Liang Ying Hao Matthew (NJC, JC1)
+Kia Jia Han (NJC, JC1)
+Cao Jialin, Marianna  (NJC, JC1)
+[Sim Shang En (NJC, JC1)](https://github.com/12458)
 Allysa Tan Li Ying (NJC, JC1)
 
 # 3. Summary:
@@ -58,7 +58,7 @@ Look for “id”, for instance, 34xxxxxxx above is my chat id. Look for yours a
 
 7. Repeat the steps above if you want to use two chatbots, except now replace the bot_token1 and bot_chatID1 fields respectively.
 8. Run the attached python code.
-9. When program prompts for input, supply it with a dataset provided below. Here, Y means it is a normal ECG, and N means it is an ECG with Atrial Fibrillation.
+9. When program prompts for input, copy and paste data found in the "Sample Input Data" folder into the interface. 
 10. If a dataset with atrial fibrillation is used, a text message should be sent to the Bot.
 
 # 8. Videos
